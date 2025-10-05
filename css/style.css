@@ -7,3 +7,26 @@ h1 {
     font-weight: bolder;
     text-align: center;
 }
+
+.introduction {
+    font-style: italic;
+}
+
+.picture {
+    border-style: groove;
+    border-color: aliceblue;
+    border-radius: 5%;
+    border-width: 10px;
+}
+
+#sectionBottom {
+    border-bottom-color: aliceblue;
+    border-bottom-width: 5px;
+    border-bottom-style: dashed;
+}
+
+#listSpacing {
+    line-height: 20px;
+    border-bottom-color: #F5A;
+    border-bottom-style:dotted;
+}
