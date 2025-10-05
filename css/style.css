@@ -30,3 +30,12 @@ h1 {
     border-bottom-color: #F5A;
     border-bottom-style:dotted;
 }
+
+#image_list_wrap {
+    display:flex;
+    gap: 20px;
+}
+
+#olmPic, #taxList {
+    flex: 1;
+}
