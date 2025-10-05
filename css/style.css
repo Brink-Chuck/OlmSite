@@ -1,3 +1,9 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #fbc;
+}
+
 h1 {
-    
+    font-weight: bolder;
+    text-align: center;
 }
